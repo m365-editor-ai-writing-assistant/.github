@@ -78,7 +78,7 @@ Unlock the full potential of Microsoft Editor — the AI-powered grammar and cla
 
 ### 🖼 Preview
 
-![Microsoft Editor Suggestions](https://cdn.mos.cms.futurecdn.net/nyVUKsnVrMSQkvHi6ZdDc3-1200-80.jpg)  
+![Microsoft Editor Suggestions](https://www.online-tech-tips.com/wp-content/uploads/2023/09/microsoft-editor-vs-grammarly-which-is-better-and-which-should-you-use-2-compressed.jpg)  
 *Grammar, spelling, and clarity improvements inside Microsoft Word*
 
 ---
